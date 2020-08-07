@@ -1,2 +1,3 @@
 # FirstRepository
-first for learning
+
+This includes Project 1, which looks really weird compared to the .rmd I was working on.  Once I put it into a larger project (having read the github instructions after drafting the .rmd file and figuring out that you can't commit .rmd files, only projects), I stuck my .rmd file into a project and committed it.  There are a lot of other files there as well, with impressive looking little codes and titles.  I have no idea what they are.  Will require further research....
